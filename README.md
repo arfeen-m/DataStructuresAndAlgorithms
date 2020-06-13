@@ -7,14 +7,14 @@
 
 
 + Sorting Algorithms
-    + [Bubble Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/bubbleSort.java)
-    + [Bucket Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/bucketSort.java)
-    + [Counting Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/countingSort.java)
-    + [Heap Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/HeapSort.java)
-    + [Insertion Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/insertionSort.java)
-    + [Merge Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/mergeSort.java)
-    + [Radix Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/radixSort.java)
-    + [Selection Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/selectionSort.java)
+    + [Bubble Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/bubbleSort.java)
+    + [Bucket Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/bucketSort.java)
+    + [Counting Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/countingSort.java)
+    + [Heap Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/HeapSort.java)
+    + [Insertion Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/insertionSort.java)
+    + [Merge Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/mergeSort.java)
+    + [Radix Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/radixSort.java)
+    + [Selection Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/SortingAlgorithms/selectionSort.java)
 
 +  Data Structres
     + [Heap](https://github.com/arfeen-m/DataStructuresAndAlgorithms/tree/master/DataStructure/Heap.java)
@@ -27,11 +27,11 @@
     + [Tree Center](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Trees/TreeCenter.java)
 
 + Graphs
-    + [Adjacency List](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/AdjacencyList.java)
-    + [Adjacency Matrix](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/AdjacencyMatrix.java)
-    + [Dijkstra Shortest Path](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/DijkstraShortestPath.java)
-    + [Isomorphic Tree](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/IsomorphicTree.java)
-    + [Topoloical Sort](#https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/TopologicalSort.java)
+    + [Adjacency List](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/AdjacencyList.java)
+    + [Adjacency Matrix](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/AdjacencyMatrix.java)
+    + [Dijkstra Shortest Path](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/DijkstraShortestPath.java)
+    + [Isomorphic Tree](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/IsomorphicTree.java)
+    + [Topoloical Sort](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Graphs/TopologicalSort.java)
     
 
 ---
