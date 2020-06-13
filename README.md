@@ -1,11 +1,12 @@
-# Data Structures and Algorithms
+# Data Structures & Algorithms
 >Java implementation of popular data structures and algorithms
 
 ---
 
 ### Table of contents
 
-+ [Sorting Algorithms](#)
+
++ Sorting Algorithms
     + [Bubble Sort](#)
     + [Bucket Sort](#)
     + [Counting Sort](#)
@@ -15,19 +16,28 @@
     + [Radix Sort](#)
     + [Selection Sort](#)
 
-+ [Data Structres](#)
++  Data Structres
     + [Heap](#)
     + [Indexed Priority Queue](#)
     + [Sparse Table](#)
     
-+ [Trees](#)
++ Trees
     + [Binary Tree](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Trees/BinaryTree.java)
     + [Rooting Tree](#)
     + [Tree Center](#)
 
-+ [Graphs](#)
++ Graphs
     + [Adjacency List](#)
     + [Adjacency Matrix](#)
     + [Dijkstra Shortest Path](#)
     + [Isomorphic Tree](#)
     + [Topoloical Sort](#)
+    
+
+---
+
+
+
+[Back To The Top](#Project-Name-Test)
+
+
