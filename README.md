@@ -5,7 +5,7 @@
 
 ### Table of contents
 
-+ [Sorting Algorithms](#BinarySearch)
++ [Sorting Algorithms](#)
     + [Bubble Sort](#)
     + [Bucket Sort](#)
     + [Counting Sort](#)
@@ -21,7 +21,7 @@
     + [Sparse Table](#)
     
 + [Trees](#)
-    + [Binary Tree](#)
+    + [Binary Tree](https://github.com/arfeen-m/DataStructuresAndAlgorithms/blob/master/Trees/BinaryTree.java)
     + [Rooting Tree](#)
     + [Tree Center](#)
 
@@ -31,4 +31,3 @@
     + [Dijkstra Shortest Path](#)
     + [Isomorphic Tree](#)
     + [Topoloical Sort](#)
-    
